@@ -22,6 +22,7 @@ module.exports = {
         path: `${__dirname}/docs/`,
       },
     },
+    "gatsby-plugin-mdx",
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
